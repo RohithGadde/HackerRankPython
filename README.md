@@ -1,5 +1,6 @@
 # HackerRankPython
 This Repo contains the required code to solve the Python Coding Problems in Hacker Rank.
+Here are the set of file names and their respective problem names.
 
 1.py --> Python If-Else
 
