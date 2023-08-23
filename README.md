@@ -14,3 +14,5 @@ This Repo contains the required code to solve the Python Coding Problems in Hack
 6.py --> Finding the percentage
 
 7.py --> Nested Lists
+
+8.py --> Lists
