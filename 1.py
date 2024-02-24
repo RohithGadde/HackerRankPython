@@ -6,7 +6,7 @@ import random
 import re
 import sys
 
-
+#weird
 
 if __name__ == '__main__':
     n = int(input().strip())
